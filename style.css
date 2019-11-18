@@ -1,0 +1,36 @@
+h1, h2, h3, h4, h5 {
+    font-family: "Playfair Display";*/
+}
+
+p {
+    font-family: "Fira Sans";
+}
+
+#floor {
+    background-color: #16C789;
+    color: beige;
+    
+}
+header span {
+    position: absolute;
+    bottom: 10%;   
+}
+header {
+    background-color: #5A9480;
+    color: azure;
+}
+
+#logo {
+    border-radius: 2em; 
+    padding: 1em;
+}
+
+#slt {
+    text-align: center;
+}
+
+.slct {
+        border-radius: 2em; 
+        padding: 1em;
+        height: 30em;
+}
